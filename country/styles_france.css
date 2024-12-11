@@ -1,0 +1,5 @@
+@import url("./styles.css");
+
+header.banner {
+    background: url('../public/img3.jpg') no-repeat center center/cover;
+}
